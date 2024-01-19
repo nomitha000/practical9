@@ -1,0 +1,1 @@
+the given string madam is a palindrome
